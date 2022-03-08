@@ -1,0 +1,100 @@
+.navbar-brand{
+    font-family: cursive;
+}
+
+.bg-light {
+    background-color: #213b59 !important;
+  }
+.navbar-light .navbar-brand{   
+    color: #cca96d;
+    font-size: 25px;
+    margin: 0;
+
+}
+
+.navbar-light .navbar-brand:hover{   
+    color: #ffffff;
+
+}
+
+.dropdown-menu{
+    font-family: cursive;
+}
+
+.svg-inline--fa.fa-w-14{
+    width: 2em;
+}
+.svg-inline--fa{
+    height: 2em;
+}
+
+.btn-secondary:hover{
+    background: none;
+    border: none;
+    color: #fafafa;
+}
+
+.btn-secondary{
+    background: none;
+    border: none;
+    color: #cca96d;
+}
+
+.home-text{
+    font-family: cursive;
+}
+
+
+.home-text h3{
+    color: #cca96d;
+}
+
+.home-text h1{
+    color: #213b59;
+}
+
+.home-text .text{
+    text-align: justify;
+}
+
+.btn, .skills-text, .work-item, .certificate-item, .detial{
+    background-color: #213b59;
+    color: #cca96d;
+}
+
+.about .about-text{
+    font-family: cursive;
+    color: #213b59;
+}
+
+.row{
+    font-family: cursive;
+    color: #213b59;
+}
+
+.about-title{
+    color: #213b59;
+}
+
+.about a{
+    text-decoration: none;
+    color: #cca96d;
+}
+
+.about p{
+    text-align: justify;
+}
+
+.about .progress{
+    background-color: #cca96d;
+}
+
+.about .progress .progress-bar, .skills-section{
+    background-color: #213b59;
+}
+
+.skills-icon svg{
+    color: #cca96d;
+}
+
+
